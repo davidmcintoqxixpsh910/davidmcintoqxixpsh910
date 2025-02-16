@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm davidmcintoqxixpsh910
 
-<!--
-**davidmcintoqxixpsh910/davidmcintoqxixpsh910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏹 🛶 🏊 🎰 A nerd in devops 🏹 🛶 🏊 🎰
 
-Here are some ideas to get you started:
+## About Me
+🎹 🎽 🎳 🎻 Excited about mobile development 🎹 🎽 🎳 🎻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎮 🎵 🎣 🏏 A fan of front-end development 🎮 🎵 🎣 🏏
+
+### Fun Facts
+🏏 🔥 💡 Passionate about testing 🏏 🔥 💡
+
+---
+🎣 🏓 🔥 🎱 🎣 Thanks for visiting my profile! 🎣 🌈 🎨 🎮 🎧
